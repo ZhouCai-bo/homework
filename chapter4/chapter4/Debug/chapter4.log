@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/9/12 11:22:56。
+     1>项目“C:\Users\zhou\documents\visual studio 2013\Projects\chapter4\chapter4\chapter4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Visual Studio2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt chapter4.cpp
+         chapter4.cpp
+     1>c:\users\zhou\documents\visual studio 2013\projects\chapter4\chapter4\chapter4.cpp(119): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\zhou\documents\visual studio 2013\projects\chapter4\chapter4\chapter4.cpp(133): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\zhou\documents\visual studio 2013\projects\chapter4\chapter4\chapter4.cpp(192): warning C4305: “=”: 从“double”到“float”截断
+     1>c:\users\zhou\documents\visual studio 2013\projects\chapter4\chapter4\chapter4.cpp(195): warning C4305: “=”: 从“double”到“float”截断
+     1>c:\users\zhou\documents\visual studio 2013\projects\chapter4\chapter4\chapter4.cpp(198): warning C4305: “=”: 从“double”到“float”截断
+       Link:
+         E:\Visual Studio2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\zhou\documents\visual studio 2013\Projects\chapter4\Debug\chapter4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\zhou\documents\visual studio 2013\Projects\chapter4\Debug\chapter4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\zhou\documents\visual studio 2013\Projects\chapter4\Debug\chapter4.lib" /MACHINE:X86 Debug\chapter4.obj
+         Debug\stdafx.obj
+         chapter4.vcxproj -> C:\Users\zhou\documents\visual studio 2013\Projects\chapter4\Debug\chapter4.exe
+     1>已完成生成项目“C:\Users\zhou\documents\visual studio 2013\Projects\chapter4\chapter4\chapter4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.59
