@@ -1,0 +1,10 @@
+﻿  chapter11.cpp
+c:\users\zhou\documents\visual studio 2013\projects\chapter11\chapter11\chapter11.cpp(41): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\zhou\documents\visual studio 2013\projects\chapter11\chapter11\chapter11.cpp(86): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\zhou\documents\visual studio 2013\projects\chapter11\chapter11\chapter11.cpp(128): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\zhou\documents\visual studio 2013\projects\chapter11\chapter11\chapter11.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhou\documents\visual studio 2013\projects\chapter11\chapter11\chapter11.cpp(175): warning C4018: “>”: 有符号/无符号不匹配
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  declaration.cpp
+  chapter11.vcxproj -> C:\Users\zhou\Documents\Visual Studio 2013\Projects\chapter11\Debug\chapter11.exe
