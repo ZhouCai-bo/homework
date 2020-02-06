@@ -1,0 +1,12 @@
+﻿生成启动时间为 2020/2/5 11:47:02。
+     1>项目“C:\Users\zhou\documents\visual studio 2013\Projects\chapter13\chapter13\chapter13.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         E:\Visual Studio2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Declaration.cpp
+         Declaration.cpp
+     1>c:\users\zhou\documents\visual studio 2013\projects\chapter13\chapter13\declaration.cpp(228): warning C4715: “Q4::Port::operator=”: 不是所有的控件路径都返回值
+     1>c:\users\zhou\documents\visual studio 2013\projects\chapter13\chapter13\declaration.cpp(283): warning C4715: “Q4::VintagePort::operator=”: 不是所有的控件路径都返回值
+     1>已完成生成项目“C:\Users\zhou\documents\visual studio 2013\Projects\chapter13\chapter13\chapter13.vcxproj”(ClCompile 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.92
